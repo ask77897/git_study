@@ -3,4 +3,3 @@ x = "hello Python World"
 print(x)
 y = "nice"
 print(y)
-print(z)
