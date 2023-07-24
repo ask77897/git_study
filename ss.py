@@ -3,3 +3,6 @@ x = "hello Python World"
 print(x)
 y = "nice"
 print(y)
+print(y)
+print(y)
+print(y)
